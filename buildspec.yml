@@ -12,9 +12,9 @@ phases:
     build:
         commands:
             - echo "Building the project ..."
-            - dotnet restore ./Proyecto.sln
-            - dotnet build ./Proyecto.sln
-            - dotnet publish ./Proyecto.sln -c Release -o ./target
+            - dotnet restore ./Proyecto.csproj
+            - dotnet build ./Proyecto.csproj
+            - dotnet publish ./Proyecto.csproj -c Release -o ./target
     post_build:
         commands:
           - echo "Build completed."
