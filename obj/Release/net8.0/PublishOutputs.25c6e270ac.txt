@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Desktop\despligue c# aws\Proyecto\target\Proyecto.exe
+C:\Users\USUARIO\Desktop\despligue c# aws\Proyecto\target\appsettings.Development.json
+C:\Users\USUARIO\Desktop\despligue c# aws\Proyecto\target\appsettings.json
+C:\Users\USUARIO\Desktop\despligue c# aws\Proyecto\target\Proyecto.dll
+C:\Users\USUARIO\Desktop\despligue c# aws\Proyecto\target\Proyecto.deps.json
+C:\Users\USUARIO\Desktop\despligue c# aws\Proyecto\target\Proyecto.runtimeconfig.json
+C:\Users\USUARIO\Desktop\despligue c# aws\Proyecto\target\Proyecto.pdb
+C:\Users\USUARIO\Desktop\despligue c# aws\Proyecto\target\Microsoft.OpenApi.dll
+C:\Users\USUARIO\Desktop\despligue c# aws\Proyecto\target\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USUARIO\Desktop\despligue c# aws\Proyecto\target\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USUARIO\Desktop\despligue c# aws\Proyecto\target\Swashbuckle.AspNetCore.SwaggerUI.dll

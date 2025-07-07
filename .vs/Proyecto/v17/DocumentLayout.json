@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\despligue c# aws\\Proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5772B9BA-D24B-49ED-8DCD-A19AFDBC12C0}|Proyecto.csproj|c:\\users\\usuario\\desktop\\despligue c# aws\\proyecto\\buildspec.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5772B9BA-D24B-49ED-8DCD-A19AFDBC12C0}|Proyecto.csproj|solutionrelative:buildspec.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5772B9BA-D24B-49ED-8DCD-A19AFDBC12C0}|Proyecto.csproj|c:\\users\\usuario\\desktop\\despligue c# aws\\proyecto\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5772B9BA-D24B-49ED-8DCD-A19AFDBC12C0}|Proyecto.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5772B9BA-D24B-49ED-8DCD-A19AFDBC12C0}|Proyecto.csproj|c:\\users\\usuario\\desktop\\despligue c# aws\\proyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5772B9BA-D24B-49ED-8DCD-A19AFDBC12C0}|Proyecto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5772B9BA-D24B-49ED-8DCD-A19AFDBC12C0}|Proyecto.csproj|c:\\users\\usuario\\desktop\\despligue c# aws\\proyecto\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5772B9BA-D24B-49ED-8DCD-A19AFDBC12C0}|Proyecto.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "buildspec.yml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\despligue c# aws\\Proyecto\\buildspec.yml",
+              "RelativeDocumentMoniker": "buildspec.yml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\despligue c# aws\\Proyecto\\buildspec.yml",
+              "RelativeToolTip": "buildspec.yml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-07-07T04:03:36.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\despligue c# aws\\Proyecto\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\despligue c# aws\\Proyecto\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T03:51:30.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\despligue c# aws\\Proyecto\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\despligue c# aws\\Proyecto\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T03:51:29.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\despligue c# aws\\Proyecto\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\despligue c# aws\\Proyecto\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T03:51:09.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
