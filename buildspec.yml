@@ -14,10 +14,11 @@ phases:
             - echo "Building the project ..."
             - dotnet restore ./Proyecto.csproj
             - dotnet build ./Proyecto.csproj
-            - dotnet publish ./Proyecto.csproj -c Release -o ./
+            - dotnet publish ./Proyecto.csproj -c Release -o publish/
     post_build:
         commands:
           - echo "Build completed."
 artifacts:
+  base-directory: publish
   files:
-    - **/*
+    - '**/*'
